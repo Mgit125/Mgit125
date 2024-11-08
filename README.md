@@ -1,7 +1,8 @@
 Hi there, I'm Srinivas Nimmshetti 👋
+
 I'm a Data Analyst with expertise in SQL, Power BI, Excel, and Python, currently working as a Data Analyst with a strong interest in data-driven decision-making. My passion lies in extracting meaningful insights from data to help businesses optimize their operations and make informed decisions.
 
-🔹 Skills & Technologies:
+## Skills & Technologies:
 
 Data Analysis: SQL, Power BI, Excel, Python
 
@@ -17,7 +18,7 @@ Reporting: Power BI Reports, SQL Queries, Pivot Tables, VLOOKUP, Conditional For
 
 Cloud Computing: AWS Certified Solutions Architect Associate
 
-🔹 Projects:
+## Projects:
 
 I believe in learning by doing, and most of my skills are honed through personal and professional projects. Here are a few of my notable ones:
 
