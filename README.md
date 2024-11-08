@@ -22,27 +22,27 @@ Cloud Computing: AWS Certified Solutions Architect Associate
 
 I believe in learning by doing, and most of my skills are honed through personal and professional projects. Here are a few of my notable ones:
 
-### Spotify Data Analysis: 
+#### Spotify Data Analysis: 
 
 Analyzed a Spotify dataset using SQL for data manipulation and Power BI for creating insightful visualizations on artist popularity, song duration, and user engagement.
 
-### Sales & Finance Analytics: 
+#### Sales & Finance Analytics: 
 
 Analyzed sales data for AtliQ Hardware, using Excel, Power Query, and Power Pivot to identify market performance trends.
 
-### Pizza Business Analysis: 
+#### Pizza Business Analysis: 
 
 Analyzed pizza sales data to identify sales trends, customer preferences, and peak demand periods using Excel and SQL.
 
-### Blinkit Sales & Customer Insights Dashboard: 
+#### Blinkit Sales & Customer Insights Dashboard: 
 
 Created a comprehensive dashboard in Power BI to gain insights into sales and customer behavior.
 
-### E-commerce Retail Customer Retention Insights: 
+#### E-commerce Retail Customer Retention Insights: 
 
 Delivered SQL insights for an e-commerce business focusing on customer retention and sales patterns.
 
-🔹 Why GitHub?
+## Why GitHub?
 
 I use GitHub to store, share, and collaborate on my data projects. My code is clean, well-documented, and available for anyone who wants to learn or contribute. I love collaborating with like-minded professionals and am always open to feedback, contributions, and new ideas!
 
