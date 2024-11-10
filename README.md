@@ -22,25 +22,46 @@ Cloud Computing: AWS Certified Solutions Architect Associate
 
 I believe in learning by doing, and most of my skills are honed through personal and professional projects. Here are a few of my notable ones:
 
-#### Spotify Data Analysis: 
+#### Blinkit Sales and Customer Insights Dashboard (Power BI)
 
-Analyzed a Spotify dataset using SQL for data manipulation and Power BI for creating insightful visualizations on artist popularity, song duration, and user engagement.
+Built an end-to-end dashboard analyzing Blinkit's sales, customer satisfaction, and inventory. Utilized KPIs, Power Query, and DAX for insights into sales trends and outlet performance, aiding strategic decision-making.
 
-#### Sales & Finance Analytics: 
+#### Pizza Sales Analysis Dashboard (Excel & SQL)
 
-Analyzed sales data for AtliQ Hardware, using Excel, Power Query, and Power Pivot to identify market performance trends.
+Analyzed 2023 pizza sales data to uncover trends, customer preferences, and peak demand. Created an interactive Excel dashboard, supporting strategies for sales, marketing, and inventory optimization.
 
-#### Pizza Business Analysis: 
+#### World Billionaires Statistics Analysis (Excel)
 
-Analyzed pizza sales data to identify sales trends, customer preferences, and peak demand periods using Excel and SQL.
+Explored wealth distribution, gender ratios, and economic impacts using Excel. Key insights included GDP effects on wealth and billionaire demographics, providing a global view of wealth dynamics.
 
-#### Blinkit Sales & Customer Insights Dashboard: 
+#### Data Professional Satisfaction Survey Analysis (Power BI)
 
-Created a comprehensive dashboard in Power BI to gain insights into sales and customer behavior.
+Evaluated job satisfaction among 631 data professionals using dynamic visualizations. Provided insights into factors affecting satisfaction, demonstrating visualization and data interpretation skills.
 
-#### E-commerce Retail Customer Retention Insights: 
+#### Spotify Data Analysis (SQL)
 
-Delivered SQL insights for an e-commerce business focusing on customer retention and sales patterns.
+Analyzed artist popularity, song duration, and listener engagement using SQL, with Power BI visualizations. Offered actionable recommendations for music industry strategy. 
+
+#### Netflix Content Analysis (SQL)
+
+Examined Netflix content trends, distribution, and viewer demographics using SQL, highlighting genre popularity and regional insights to guide strategic decisions.
+
+#### USA Bank Loan Data Analysis (SQL & Power BI)
+
+Integrated SQL and Power BI to analyze loan distribution, interest rates, and borrower trends, offering insights to improve loan management and risk assessment.
+
+#### E-commerce Retail Customer Retention (SQL)
+
+Used SQL to analyze customer retention data, revealing insights for targeted marketing, upselling strategies, and loyalty growth.
+
+#### Sales and Finance Analytics for AtliQ Hardware (Excel)
+
+Generated sales and finance insights from 2019-2021 for AtliQ, using Power Query and DAX to optimize market strategies and improve financial outcomes.
+
+#### Superstore Sales Analysis (Power BI)
+
+Analyzed Superstore data to provide insights on sales growth, profitability, and customer behavior, driving business optimization strategies.
+
 
 ## Why GitHub?
 
