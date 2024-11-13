@@ -22,17 +22,33 @@ Cloud Computing: AWS Certified Solutions Architect Associate
 
 I believe in learning by doing, and most of my skills are honed through personal and professional projects. Here are a few of my notable ones:
 
-#### Blinkit Sales and Customer Insights Dashboard (Power BI)
+#### World Billionaires Statistics Analysis (Excel)
 
-Built an end-to-end dashboard analyzing Blinkit's sales, customer satisfaction, and inventory. Utilized KPIs, Power Query, and DAX for insights into sales trends and outlet performance, aiding strategic decision-making.
+Explored wealth distribution, gender ratios, and economic impacts using Excel. Key insights included GDP effects on wealth and billionaire demographics, providing a global view of wealth dynamics.
+
+#### Sales and Finance Analytics for AtliQ Hardware (Excel)
+
+Generated sales and finance insights from 2019-2021 for AtliQ, using Power Query and DAX to optimize market strategies and improve financial outcomes.
+
+#### E-commerce Retail Customer Retention (SQL)
+
+Used SQL to analyze customer retention data, revealing insights for targeted marketing, upselling strategies, and loyalty growth.
+
+#### USA Bank Loan Data Analysis (SQL & Power BI)
+
+Integrated SQL and Power BI to analyze loan distribution, interest rates, and borrower trends, offering insights to improve loan management and risk assessment.
+
+#### Superstore Sales Analysis (Power BI)
+
+Analyzed Superstore data to provide insights on sales growth, profitability, and customer behavior, driving business optimization strategies.
 
 #### Pizza Sales Analysis Dashboard (Excel & SQL)
 
 Analyzed 2023 pizza sales data to uncover trends, customer preferences, and peak demand. Created an interactive Excel dashboard, supporting strategies for sales, marketing, and inventory optimization.
 
-#### World Billionaires Statistics Analysis (Excel)
+#### Blinkit Sales and Customer Insights Dashboard (Power BI)
 
-Explored wealth distribution, gender ratios, and economic impacts using Excel. Key insights included GDP effects on wealth and billionaire demographics, providing a global view of wealth dynamics.
+Built an end-to-end dashboard analyzing Blinkit's sales, customer satisfaction, and inventory. Utilized KPIs, Power Query, and DAX for insights into sales trends and outlet performance, aiding strategic decision-making.
 
 #### Data Professional Satisfaction Survey Analysis (Power BI)
 
@@ -45,22 +61,6 @@ Analyzed artist popularity, song duration, and listener engagement using SQL, wi
 #### Netflix Content Analysis (SQL)
 
 Examined Netflix content trends, distribution, and viewer demographics using SQL, highlighting genre popularity and regional insights to guide strategic decisions.
-
-#### USA Bank Loan Data Analysis (SQL & Power BI)
-
-Integrated SQL and Power BI to analyze loan distribution, interest rates, and borrower trends, offering insights to improve loan management and risk assessment.
-
-#### E-commerce Retail Customer Retention (SQL)
-
-Used SQL to analyze customer retention data, revealing insights for targeted marketing, upselling strategies, and loyalty growth.
-
-#### Sales and Finance Analytics for AtliQ Hardware (Excel)
-
-Generated sales and finance insights from 2019-2021 for AtliQ, using Power Query and DAX to optimize market strategies and improve financial outcomes.
-
-#### Superstore Sales Analysis (Power BI)
-
-Analyzed Superstore data to provide insights on sales growth, profitability, and customer behavior, driving business optimization strategies.
 
 
 ## Why GitHub?
