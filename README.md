@@ -50,7 +50,7 @@ Analyzed 2023 pizza sales data to uncover trends, customer preferences, and peak
 
 Built an end-to-end dashboard analyzing Blinkit's sales, customer satisfaction, and inventory. Utilized KPIs, Power Query, and DAX for insights into sales trends and outlet performance, aiding strategic decision-making.
 
-#### Data Professional Satisfaction Survey Analysis (Power BI)
+#### Data Professional Satisfaction Survey Analysis Dashboard (Power BI)
 
 Evaluated job satisfaction among 631 data professionals using dynamic visualizations. Provided insights into factors affecting satisfaction, demonstrating visualization and data interpretation skills.
 
