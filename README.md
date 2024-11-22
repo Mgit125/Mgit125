@@ -35,47 +35,47 @@ Cloud Computing: AWS Certified Solutions Architect Associate
 
 I believe in learning by doing, and most of my skills are honed through personal and professional projects. Here are a few of my notable ones:
 
-#### World Billionaires Statistics Analysis (Excel)
+#### 1. World Billionaires Statistics Analysis (Excel)
 
 Explored wealth distribution, gender ratios, and economic impacts using Excel. Key insights included GDP effects on wealth and billionaire demographics, providing a global view of wealth dynamics.
 
-#### Sales and Finance Analytics for AtliQ Hardware (Excel)
+#### 2. Sales and Finance Analytics for AtliQ Hardware (Excel)
 
 Generated sales and finance insights from 2019-2021 for AtliQ, using Power Query and DAX to optimize market strategies and improve financial outcomes.
 
-#### E-commerce Retail Customer Retention (SQL)
+#### 3. E-commerce Retail Customer Retention (SQL)
 
 Used SQL to analyze customer retention data, revealing insights for targeted marketing, upselling strategies, and loyalty growth.
 
-#### USA Bank Loan Data Analysis (SQL & Power BI)
+#### 4. USA Bank Loan Data Analysis (SQL & Power BI)
 
 Integrated SQL and Power BI to analyze loan distribution, interest rates, and borrower trends, offering insights to improve loan management and risk assessment.
 
-#### Superstore Sales Analysis (Power BI)
+#### 5. Superstore Sales Analysis (Power BI)
 
 Analyzed Superstore data to provide insights on sales growth, profitability, and customer behavior, driving business optimization strategies.
 
-#### Pizza Sales Analysis Dashboard (Excel & SQL)
+#### 6. Pizza Sales Analysis Dashboard (Excel & SQL)
 
 Analyzed 2023 pizza sales data to uncover trends, customer preferences, and peak demand. Created an interactive Excel dashboard, supporting strategies for sales, marketing, and inventory optimization.
 
-#### Blinkit Sales and Customer Insights Dashboard (Power BI)
+#### 7. Blinkit Sales and Customer Insights Dashboard (Power BI)
 
 Built an end-to-end dashboard analyzing Blinkit's sales, customer satisfaction, and inventory. Utilized KPIs, Power Query, and DAX for insights into sales trends and outlet performance, aiding strategic decision-making.
 
-#### Data Professional Satisfaction Survey Analysis Dashboard (Power BI)
+#### 8. Data Professional Satisfaction Survey Analysis Dashboard (Power BI)
 
 Evaluated job satisfaction among 631 data professionals using dynamic visualizations. Provided insights into factors affecting satisfaction, demonstrating visualization and data interpretation skills.
 
-#### Spotify Data Analysis (SQL)
+#### 9. Spotify Data Analysis (SQL)
 
 Analyzed artist popularity, song duration, and listener engagement using SQL, with Power BI visualizations. Offered actionable recommendations for music industry strategy. 
 
-#### Netflix Content Analysis (SQL)
+#### 10. Netflix Content Analysis (SQL)
 
 Examined Netflix content trends, distribution, and viewer demographics using SQL, highlighting genre popularity and regional insights to guide strategic decisions.
 
-#### Walmart Sales Analysis (SQL)
+#### 11. Walmart Sales Analysis (SQL)
 
 Performed in-depth analysis of Walmart's sales data using SQL. Identified key trends in revenue, customer behavior, and branch performance to support data-driven decision-making.
 
