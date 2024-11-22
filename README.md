@@ -18,6 +18,19 @@ Reporting: Power BI Reports, SQL Queries, Pivot Tables, VLOOKUP, Conditional For
 
 Cloud Computing: AWS Certified Solutions Architect Associate
 
+
+## Key Achievements
+
+✔ Developed Power BI dashboards to monitor Key Performance Indicators (KPIs) and support business decisions.
+
+✔ Optimized SQL queries to enhance database performance and reduce processing time.
+
+✔ Conducted statistical analyses and created forecasting models to predict trends and inform strategies.
+
+✔ Translated complex business needs into technical solutions, analyzing data from multiple sources to provide actionable insights.
+
+✔ Designed end-to-end reporting solutions, streamlining data workflows and enhancing productivity.
+
 ## Projects:
 
 I believe in learning by doing, and most of my skills are honed through personal and professional projects. Here are a few of my notable ones:
