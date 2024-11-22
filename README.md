@@ -75,6 +75,11 @@ Analyzed artist popularity, song duration, and listener engagement using SQL, wi
 
 Examined Netflix content trends, distribution, and viewer demographics using SQL, highlighting genre popularity and regional insights to guide strategic decisions.
 
+#### Walmart Sales Analysis (SQL)
+
+Performed in-depth analysis of Walmart's sales data using SQL. Identified key trends in revenue, customer behavior, and branch performance to support data-driven decision-making.
+
+
 
 ## Why GitHub?
 
